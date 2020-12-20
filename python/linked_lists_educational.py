@@ -1,7 +1,3 @@
-
-
-
-
 # Educational code to try to understand the implementation of the linked lists data structure.
 
 # Creating the node class:
