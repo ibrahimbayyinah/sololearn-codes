@@ -13,3 +13,13 @@ while j <= 100:
     b[key] = value
     j += 1
 print(b)
+
+
+# yet another method:
+# Creating new "variables" with a for-loop
+
+dict = {}
+for i in range(100):
+    dict[f'var{i}'] = i*3
+
+print(dict)
