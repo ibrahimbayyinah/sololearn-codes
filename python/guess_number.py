@@ -1,4 +1,4 @@
-# Modified from Al Sweigart's: Automate the Boring Stuff with Python
+# Modified from Al Sweigart's: Automate The Boring Stuff With Python
 
 import random
 
